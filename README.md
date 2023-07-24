@@ -1,0 +1,2 @@
+# tutorial06
+ scala
